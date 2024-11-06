@@ -21,7 +21,7 @@ A powerful and user-friendly event management plugin for WordPress, designed to 
 ## Usage
 
 1. **Create an Event**: Navigate to the Events tab and click "Add New" to create an event with relevant details.
-2. **Manage Registrations**: Use the built-in registration tools to monitor attendee sign-ups.
+2. **Calender Based Display**: A dynamic calendar view to showcase events.
 3. **Customize Display**: Use shortcodes to display events on different pages or embed them in posts.
 
 ## Requirements
